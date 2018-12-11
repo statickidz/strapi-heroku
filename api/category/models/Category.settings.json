@@ -17,6 +17,10 @@
       "collection": "post",
       "via": "category"
     },
+    "invoices": {
+      "collection": "invoice",
+      "via": "category"
+    },
     "tags": {
       "collection": "tag",
       "via": "categories"
